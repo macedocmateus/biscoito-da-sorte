@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  background: linear-gradient(45deg, #190361 0%, #B0F 100%);
+  font-size: 1.6rem;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.hide {
+  display: none;
+}
+
